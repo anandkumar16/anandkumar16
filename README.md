@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anand Yadav</h1>
-<h3 align="center">A passionate software Engineer from India</h3>
+<h3 align="center">A passionate web developer  from India</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/at0z](https://linktr.ee/at0z)
 
-- 💬 Ask me about **C++ , react.js**
+- 💬 Ask me about **C++**
 
 - 📫 How to reach me **anandyadav16022004@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
