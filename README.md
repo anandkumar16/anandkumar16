@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://anand-dev-portfolio.vercel.app](https://anand-dev-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://anand-dev-portfolio.vercel.app)
 
 - 💬 Ask me about **Mern Stack**
 
