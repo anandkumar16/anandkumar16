@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/at0z](https://linktr.ee/at0z)
+- 👨‍💻 All of my projects are available at [https://anand-dev-portfolio.vercel.app](https://anand-dev-portfolio.vercel.app)
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **Mern Stack**
 
 - 📫 How to reach me **anandyadav16022004@gmail.com**
 
