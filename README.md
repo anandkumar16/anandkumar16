@@ -64,6 +64,5 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/anandkumar16/anandkumar16/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
