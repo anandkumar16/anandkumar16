@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tse1.mm.bing.net/th?id=OIP.jXUh7Ljb4i18tkkVSr9T9QHaHa&pid=Api&P=0&h=180"  />
+
 
 ###
 
@@ -44,21 +44,6 @@
 </div>
 
 ###
-
-<div align="left">
-  <a href="anandyadav16022004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/_anand.16?igsh=MTZ6Y2NxbW01azVvNA==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/anand-yadav-2800b4259" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/AnandY016?t=9tiRuDH0sZFlcchS9UgO7w&s=09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
 
 ###
 
